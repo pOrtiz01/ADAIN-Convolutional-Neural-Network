@@ -1,0 +1,1 @@
+python3 test.py -content_image images/content/Lena.png -style_image images/style/brushstrokes.jpg -decoder 10K.pth -encoder encoder.pth -alpha 0.1 -cuda Y
